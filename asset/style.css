@@ -1,0 +1,8 @@
+.small-box{
+	padding:15px  !important;
+}
+.small-box-footer{
+	margin-top:25px !important;
+}
+.myerror{ width: 50%;height: 32px;padding: 5px;margin-top: 11px;}
+.error{ border: solid 1px red; }
